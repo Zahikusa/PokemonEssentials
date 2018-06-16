@@ -217,6 +217,22 @@ BURMY,12,15
 BURMY,12,15
 BURMY,12,15
 #-------------------------------
+033 # Pfad 1
+25,10,10
+Land
+RATTATA,2,4
+RATTATA,3,5
+BUNEARY,3,4
+BUNEARY,3,4
+BIDOOF,3,4
+BIDOOF,3,5
+SPEAROW,4,5
+SPEAROW,4,6
+RATTATA,5,7
+SPEAROW,5,8
+STARLY,3,5
+HOPPIP,3,6
+#-------------------------------
 034 # Ice Cave
 25,10,10
 Cave

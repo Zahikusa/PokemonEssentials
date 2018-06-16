@@ -72,3 +72,4 @@
 69,ELITEFOUR_Agatha,Elite Four,100,Battle Elite,,,Female,,
 70,ELITEFOUR_Lance,Elite Four,100,Battle Elite,,,Male,,
 71,CHAMPION,Champion,100,Battle Elite,,,Male,,
+72,GENIUS,Genius,32,,,,Male,100,,
