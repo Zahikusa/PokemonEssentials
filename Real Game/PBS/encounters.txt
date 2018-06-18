@@ -217,6 +217,22 @@ BURMY,12,15
 BURMY,12,15
 BURMY,12,15
 #-------------------------------
+032 # New Town
+25,10,10
+Land
+RATTATA,2,3
+RATTATA,2,3
+PIDGEY,2,4
+PIDGEY,2,4
+BIDOOF,2,4
+BIDOOF,2,4
+SENTRET,2,4
+SENTRET,2,4
+RATTATA,3,5
+PIDGEY,3,5
+TAILLOW,2,5
+PIDOVE,2,5
+#-------------------------------
 033 # Pfad 1
 25,10,10
 Land
