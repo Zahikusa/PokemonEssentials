@@ -1,0 +1,24 @@
+Ground-Floor -> Player receives his pokemon-team, perhaps one easy test-battle happens here.
+
+Possible addition: Room on the ground-floor, acting as a little warp-up challenge. Player needs to get to know his team.
+GF Room -> Type: Normal, Trainer-count: 4-5
+
+(basement-floors)
+
+BF 1 -> Type: Ground, Trainer-count: ?, Chief-name: ?
+BF 2 -> Type: Rock, Trainer-count: ?, Chief-name: ?
+BF 3 -> Type: Poison, Trainer-count: ?, Chief-name: ?
+BF 4 -> Type: Dark, Trainer-count: ?, Chief-name: ?
+BF 5 -> Type: Ghost, Trainer-count: ?, Chief-Name: ?
+
+(upper-floors)
+
+UF 1 -> Type: Grass, Trainer-count: ?, Chief-name: ? 
+UF 2 -> Type: Fairy, Trainer-count: ?, Chief-name: ?
+UF 3 -> Type: Fighting, Trainer-count: ?, Chief-name: ?
+UF 4 -> Type: Flying, Trainer-count: ?, Chief-name: ?
+UF 5 -> Type: Bug, Trainer-count: ?, Chief-name: ?
+
+(Roof-top)
+
+Roof-platform -> Type: Mixed, Trainer-count: ?, Chief-name: ?
