@@ -22,3 +22,22 @@ UF 5 -> Type: Bug, Trainer-count: ?, Chief-name: ?
 (Roof-top)
 
 Roof-platform -> Type: Mixed, Trainer-count: ?, Chief-name: ?
+
+______________________________________________________________
+
+Current pokemon that can be used to build the starting-team are listen below, by type.
+Some of them may have their evolution-style changed to "level-up".
+(for example "Machoke" now evolves to "Machamp" by level-up instead of by trading)
+
+Fire -> Ponyta(077), Houndour(228), Numel(322)
+Water -> Tentacool(072), Wooper(194), Feebas(349)
+Grass -> Shroomish(285), Tropius(357), Tangela(114)
+Ice -> Snorunt(361), Cubchoo(613), Spheal(363)
+Fighting -> Machop(066), Makuhita(296), Timburr(532)
+Poison -> Nidoran(m)(032), Gulpin(316), Venipede(543)
+Ground -> Phanpy(231), Trapinch(328), Baltoy(343)
+Flying -> Doduo(084), Skarmory(227), Starly(396)
+Psychic -> Abra(063), Natu(177), Spoink(325)
+Bug -> Pineco(204), Anorith(347), Yanma(193)
+Rock -> Rhyhorn(111), Nosepass(299), Tirtouga(564)
+Dark -> Seedot(273), Carvanha(318), Sandile(551)
