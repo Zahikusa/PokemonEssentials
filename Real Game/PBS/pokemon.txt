@@ -986,7 +986,7 @@ Pokedex=Its horn is harder than a diamond. If it senses a hostile presence, all 
 BattlerPlayerY=0
 BattlerEnemyY=22
 BattlerAltitude=0
-Evolutions=NIDOKING,Item,MOONSTONE
+Evolutions=NIDOKING,Item,MOONSTONE,NIDOKING,Level,30
 #-------------------------------
 [34]
 Name=Nidoking
@@ -1943,7 +1943,7 @@ WildItemUncommon=TWISTEDSPOON
 BattlerPlayerY=0
 BattlerEnemyY=13
 BattlerAltitude=0
-Evolutions=ALAKAZAM,Trade,
+Evolutions=ALAKAZAM,Trade,,ALAKAZAM,Level,32
 #-------------------------------
 [65]
 Name=Alakazam
@@ -2032,7 +2032,7 @@ Pokedex=A belt is worn by a Machoke to keep its overwhelming power under control
 BattlerPlayerY=0
 BattlerEnemyY=12
 BattlerAltitude=0
-Evolutions=MACHAMP,Trade,
+Evolutions=MACHAMP,Trade,,MACHAMP,Level,41
 #-------------------------------
 [68]
 Name=Machamp
@@ -3401,7 +3401,7 @@ Pokedex=Its horn, which rotates like a drill, destroys tall buildings with one s
 BattlerPlayerY=0
 BattlerEnemyY=12
 BattlerAltitude=0
-Evolutions=RHYPERIOR,TradeItem,PROTECTOR
+Evolutions=RHYPERIOR,TradeItem,PROTECTOR,RHYPERIOR,Level,55
 #-------------------------------
 [113]
 Name=Chansey
@@ -3463,7 +3463,7 @@ Pokedex=Its vines snap off easily and painlessly if they are grabbed, allowing i
 BattlerPlayerY=0
 BattlerEnemyY=23
 BattlerAltitude=0
-Evolutions=TANGROWTH,HasMove,ANCIENTPOWER
+Evolutions=TANGROWTH,Level,30
 #-------------------------------
 [115]
 Name=Kangaskhan
@@ -5851,7 +5851,7 @@ WildItemUncommon=WIDELENS
 BattlerPlayerY=0
 BattlerEnemyY=23
 BattlerAltitude=13
-Evolutions=YANMEGA,HasMove,ANCIENTPOWER
+Evolutions=YANMEGA,HasMove,ANCIENTPOWER,YANMEGA,Level,25
 #-------------------------------
 [194]
 Name=Wooper
@@ -8284,7 +8284,7 @@ Pokedex=A forest-dwelling Pokémon that is skilled at climbing trees. Its long a
 BattlerPlayerY=0
 BattlerEnemyY=20
 BattlerAltitude=0
-Evolutions=SHIFTRY,Item,LEAFSTONE
+Evolutions=SHIFTRY,Item,LEAFSTONE,SHIFTRY,Level,28
 #-------------------------------
 [275]
 Name=Shiftry
@@ -9013,7 +9013,7 @@ WildItemUncommon=HARDSTONE
 BattlerPlayerY=0
 BattlerEnemyY=19
 BattlerAltitude=0
-Evolutions=PROBOPASS,Location,49,PROBOPASS,Location,50,PROBOPASS,Location,51
+Evolutions=PROBOPASS,Location,49,PROBOPASS,Location,50,PROBOPASS,Location,51,PROBOPASS,Level,28
 #-------------------------------
 [300]
 Name=Skitty
@@ -10490,7 +10490,7 @@ Pokedex=Feebas live in ponds that are heavily infested with weeds. Because of it
 BattlerPlayerY=0
 BattlerEnemyY=21
 BattlerAltitude=12
-Evolutions=MILOTIC,Beauty,170,MILOTIC,TradeItem,PRISMSCALE
+Evolutions=MILOTIC,Beauty,170,MILOTIC,TradeItem,PRISMSCALE,MILOTIC,Level,28
 #-------------------------------
 [350]
 Name=Milotic
@@ -15731,7 +15731,7 @@ Pokedex=They strengthen their bodies by carrying steel beams. They show off thei
 BattlerPlayerY=0
 BattlerEnemyY=27
 BattlerAltitude=0
-Evolutions=CONKELDURR,Trade,
+Evolutions=CONKELDURR,Trade,,CONKELDURR,Level,41
 #-------------------------------
 [534]
 Name=Conkeldurr
