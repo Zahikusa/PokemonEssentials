@@ -73,5 +73,5 @@
 70,ELITEFOUR_Lance,Elite Four,100,Battle Elite,,,Male,,
 71,CHAMPION,Champion,100,Battle Elite,,,Male,,
 72,GENIUS,Genius,32,,,,Male,100,
-73,SOILSCIENTIST,Soil Scientist,32,,,,Male,32,
-74,GEOLOGIST,Geologist,32,,,,Male,32,
+73,SOILSCIENTIST,Soil Scientist,64,,,,Male,64,
+74,GEOLOGIST,Geologist,24,,,,Male,24,
