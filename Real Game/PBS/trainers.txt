@@ -155,7 +155,7 @@ POKEMANIAC
 Benjamin
 3,POTION
 SNUBBULL,5
-BUNEARY,7
+BUNEARY,7,,,,,,,,,,,,,,,,252,0,252,0,0,0
 LICKITUNG,9,ROCKYHELMET
 #-------------------------------
 LASS
