@@ -5,7 +5,7 @@ GF Room -> Type: Normal, Trainer-count: 4
 
 (basement-floors)
 
-BF 1 -> Type: Ground, Trainer-count: ?, Chief-name: ?
+BF 1 -> Type: Ground, Trainer-count: 14, Chief-name: Balzabur
 BF 2 -> Type: Ice, Trainer-count: ?, Chief-name: ?
 BF 3 -> Type: Poison, Trainer-count: ?, Chief-name: ?
 BF 4 -> Type: Dark, Trainer-count: ?, Chief-name: ?
