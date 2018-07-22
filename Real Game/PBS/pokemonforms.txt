@@ -407,3 +407,11 @@ FormName=Chill Drive
 #-------------------------------
 [GENESECT-4]
 FormName=Douse Drive
+#-------------------------------
+[MAMOSWINE-1]
+FormName=Tremorous Mamoswine
+Type1=GROUND
+Type2=GROUND
+BaseStats=140,100,110,85,70,95
+Abilities=WHITESMOKE
+Height=3.2
