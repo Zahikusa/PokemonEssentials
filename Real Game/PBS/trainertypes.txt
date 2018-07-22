@@ -75,3 +75,4 @@
 72,GENIUS,Genius,32,,,,Male,100,
 73,SOILSCIENTIST,Soil Scientist,32,,,,Male,100,
 74,GEOLOGIST,Geologist,24,,,,Male,24,
+75,BALZABURSON,Balzaburs Son,100,,,,Male,100,
