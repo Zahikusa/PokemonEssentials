@@ -19077,8 +19077,8 @@ BattlerAltitude=0
 Evolutions=
 #-------------------------------
 [811]
-Name=Skemoria
-InternalName=SKEMORIA
+Name=Skremoria
+InternalName=SKREMORIA
 Type1=GHOST
 Type2=DARK
 BaseStats=70,50,60,90,150,65
@@ -19099,7 +19099,7 @@ Color=Yellow
 Shape=5
 Habitat=Cave
 Kind=Hoverbone
-Pokedex=Skemoria is roaming the depths of the earths inside since the planet originally formed. It reacts aggressive when confronted by people due to its massive boredom.
+Pokedex=Skremoria is roaming the depths of the earths inside since the planet originally formed. It reacts aggressive when confronted by people due to its massive boredom.
 BattlerPlayerY=0
 BattlerEnemyY=27
 BattlerAltitude=0
