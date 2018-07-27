@@ -4041,7 +4041,7 @@ Pokedex=An Eevee has an unstable genetic makeup that suddenly mutates due to its
 BattlerPlayerY=0
 BattlerEnemyY=20
 BattlerAltitude=0
-Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,28,GLACEON,Location,34,ESPEON,HappinessDay,,UMBREON,HappinessNight,
+Evolutions=VAPOREON,Item,WATERSTONE,JOLTEON,Item,THUNDERSTONE,FLAREON,Item,FIRESTONE,LEAFEON,Location,28,LEAFEON,Item,LEAFSTONE,GLACEON,Location,34,GLACEON,Item,COLDSTONE,ESPEON,HappinessDay,,ESPEON,Item,BRAINSTONE,UMBREON,HappinessNight,,UMBREON,Item,DUSKSTONE
 #-------------------------------
 [134]
 Name=Vaporeon
